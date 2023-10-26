@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/programming-gif-25868426">
 
 # 💫 About Me:
 🔭 I’m currently working on Javascript & AIML<br>🌱 I’m currently learning React Js & NLP<br>💬 Ask me about Java & SQL<br>⚡ Fun fact I love Coding
