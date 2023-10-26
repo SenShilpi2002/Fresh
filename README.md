@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=developer%20coding%20girl%20gif&tbm=isch&rlz=1C1VDKB_en-GBIN1070IN1071&hl=en&sa=X&ved=0CBoQtI8BKABqFwoTCJDAqeuIk4IDFQAAAAAdAAAAABAG&biw=1519&bih=715#imgrc=qQViMd7j3uvKPM">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=developer+coding++gif&tbm=isch&ved=2ahUKEwjd2YryiJOCAxWKmmMGHVS1D3kQ2-cCegQIABAA&oq=developer+coding++gif&gs_lcp=CgNpbWcQAzIFCAAQgARQgQdYgQdgrgloAHAAeACAAcMBiAHMApIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=9wQ6ZZ2CA4q1juMP1Oq-yAc&bih=715&biw=1519&rlz=1C1VDKB_en-GBIN1070IN1071&hl=en#imgrc=0MudfhQ0zBeUlM">
 
 
 # 💫 About Me:
