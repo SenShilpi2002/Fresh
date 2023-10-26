@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated%20coding%20gif&tbm=isch&hl=en&rlz=1C1VDKB_en-GBIN1070IN1071&sa=X&ved=0CBwQtI8BKABqFwoTCLiSpZWJk4IDFQAAAAAdAAAAABAh&biw=1519&bih=715#imgrc=s91A6iFa6uY5iM&imgdii=SS1GkdNnlHNJqM">
-
+<div class="tenor-gif-embed" data-postid="25868426" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/programming-gif-25868426">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 💫 About Me:
 🔭 I’m currently working on Javascript & AIML<br>🌱 I’m currently learning React Js & NLP<br>💬 Ask me about Java & SQL<br>⚡ Fun fact I love Coding
